@@ -1,0 +1,123 @@
+body, html{
+    height: 100%;
+    margin: 0;
+    font-size: 16px;
+    font-family: "Lato", sans-serif;
+    font-weight: 400;
+    line-height: 1.8em;
+    color: #666;
+}
+
+.first-section{
+    background-image: url(/images/photo4.jpg);
+    min-height: 100%;
+    position: relative;
+    opacity: 0.65;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    
+    
+}
+.Fsection-text{
+    margin-top: 0;
+    color: #fff;
+    font-size: 30px;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+}
+.border{
+    padding: 17px 33px;
+    border-radius: 8px;
+    background-color: black;  
+}
+
+.winner2{
+    padding: 17px 33px;
+    border-radius: 8px;
+    background-color: black; 
+    position: relative;
+    top: 500px;
+    left: 500px;
+    letter-spacing: 5px; 
+}
+
+.second-section , 
+.third-section,
+.fourth-section{
+    background-color: #111;
+    color: #fff;
+    
+}
+.second-section h2 ,
+.third-section h2,
+.fourth-section h2{
+    margin-top: 0;
+    padding-top: 80px ;
+    text-align: center;
+}
+.second-section p ,
+.third-section p,
+.fourth-section p{
+    text-align: center;
+    padding: 0px 80px 80px 50px;
+    margin-bottom: 0;
+}
+.s_section-image{
+    margin-top: 0;
+    background-image: url(/images/photo5.jpg);
+    min-height: 400px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.s_section-image h2, 
+.F_section-image h2{
+    margin-top: 0;
+    color: #111;
+    text-align: center;
+    position: relative;
+    top: 200px;
+    letter-spacing: 4px;
+    font-weight: bolder;
+}
+.T_section-image h2{
+    margin-top: 0;
+    color: #fff;
+    text-align: center;
+    position: relative;
+    top: 200px;
+    letter-spacing: 4px;
+    font-weight: bolder;
+}
+.T_section-image{
+    background-image: url(/images/photo6.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    min-height: 400px;
+}
+
+.fourth-section  h2{
+    text-align: center;
+    padding-top: 50px;
+}
+.fourth-section p{
+    padding: 0 80px 40px 80px;
+}
+.F_section-image{
+    background-image: url(/images/photo4.jpg);
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    opacity: 0.65;
+    min-height: 800px;
+    background-size: cover;
+}
+
